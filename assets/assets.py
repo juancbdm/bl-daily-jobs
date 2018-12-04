@@ -35,7 +35,7 @@ def ask_auth():
         {
             'type': 'input',
             'name': 'storeName',
-            'message': 'Nome da Loja(a url sera montada dinamicamente ex: "https://NOME_DA_LOJA.api.betalabs.net/api/stores/1/assets")',
+            'message': 'Nome da Loja(a url sera montada dinamicamente ex: "https://NOME_DA_LOJA.api.URL.net/api/stores/1/assets")',
         }, {
             'type': 'input',
             'name': 'storeToken',
